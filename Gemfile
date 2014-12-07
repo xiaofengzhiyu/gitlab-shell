@@ -1,4 +1,4 @@
-source "http://rubygems.org"
+source "http://ruby.taobao.org"
 
 group :development, :test do
   gem 'coveralls', require: false
